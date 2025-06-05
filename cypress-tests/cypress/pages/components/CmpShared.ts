@@ -22,7 +22,7 @@ export default new class CmpShared {
    cmpShNavOstatni: any = () => { return cy.get('a[href="/ostatni-zvirata/"]') }
    cmpShNavDiety: any = () => { return cy.get('a[href="/veterinarni-diety/"]') }
 
-
+//
 
 
 
